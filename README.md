@@ -1,10 +1,8 @@
 # Data-Analytics-Project
 
-## First step :one::
+## Extract and sentiment analysis on social media :one::
 
 ![img](images/gif.gif)
-
-**Extract and sentiment analysis on social media**
 
 - Put your **URL** Youtube video
 - Put **number** of comments you need (you can select all of them)
@@ -21,3 +19,9 @@
 |   5 | Language     | The Languege of the comment                                  |
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Data-Analytics/main?filepath=allComments.ipynb)
+
+## Data visualization :loop: using Power Bi :two: :
+
+[Click here](https://drive.google.com/drive/folders/1O89DGOIu7uH4DitKLcaCsZGTO_blpdWh?usp=share_link)
+
+![img](images/Result.jpg)
