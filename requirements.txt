@@ -1,9 +1,9 @@
-pytube 
-googleapiclient.discovery 
-openpyxl 
-xlsxwriter
-textblob 
-iteration_utilities 
-deep_translator 
-googletrans 
-langdetect 
+from pytube import extract
+from googleapiclient.discovery import build
+from openpyxl import Workbook
+import xlsxwriter
+from textblob import TextBlob
+from iteration_utilities import unique_everseen
+from deep_translator import GoogleTranslator
+from googletrans import Translator
+from langdetect import detect_langs
