@@ -6,7 +6,7 @@ langdetect==1.0.7
 matplotlib==3.5.2
 numpy==1.21.5
 openpyxl==3.0.10
-pandas==1.4.4
+pandas
 pytube==12.1.0
 textblob==0.17.1
 XlsxWriter==3.0.3
