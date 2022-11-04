@@ -1,0 +1,9 @@
+pytube 
+googleapiclient.discovery 
+openpyxl 
+xlsxwriter
+textblob 
+iteration_utilities 
+deep_translator 
+googletrans 
+langdetect 
