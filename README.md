@@ -25,3 +25,6 @@
 [Click here](https://drive.google.com/drive/folders/1O89DGOIu7uH4DitKLcaCsZGTO_blpdWh?usp=share_link)
 
 ![img](images/Result.jpg)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Data-Analytics/main?filepath=index.ipynb)
