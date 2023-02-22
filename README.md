@@ -28,3 +28,4 @@
 
 ## internet new in data_camp 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Data-Analytics/main?filepath=index.ipynb)
